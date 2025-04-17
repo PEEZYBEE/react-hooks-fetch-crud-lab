@@ -47,7 +47,6 @@
     "/node_modules/(?!(\\@adobe/css-tools)/)"
   ]
 }
-
 }
 
   
